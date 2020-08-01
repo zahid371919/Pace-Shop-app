@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811415533624",
+    "firebase_url": "https://pace-shop-4e05c.firebaseio.com",
+    "project_id": "pace-shop-4e05c",
+    "storage_bucket": "pace-shop-4e05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811415533624:android:1940415e152f6389d28ecd",
+        "android_client_info": {
+          "package_name": "com.example.paceshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811415533624-cthlb3482et4255ubivkutha4devgb92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paceshop",
+            "certificate_hash": "dcfc1129666ac85ab40254e23bed006cd26b54ea"
+          }
+        },
+        {
+          "client_id": "811415533624-6t8rgqssk0h2jhge84eo1h3f8p2jm33m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzS4mo5NMeKP_qFWvg7niLLC2nikBJJDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811415533624-6t8rgqssk0h2jhge84eo1h3f8p2jm33m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.paceshop">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET"/>
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".baju3"></activity>
+        <activity android:name=".Baju2" />
+        <activity android:name=".Baju1" />
+        <activity android:name=".Ketentuan_page3" />
+        <activity android:name=".About_page2" />
+        <activity android:name=".Daftar3" />
+        <activity android:name=".Daftar2" />
+        <activity android:name=".Terbaru_1" />
+        <activity android:name=".Daftar_1" />
+        <activity android:name=".Bag_8" />
+        <activity android:name=".Hat7" />
+        <activity android:name=".Shorts_6" />
+        <activity android:name=".LongsPants_5" />
+        <activity android:name=".Jacket_page4" />
+        <activity android:name=".Hoodie_3" />
+        <activity android:name=".Accessories_2" />
+        <activity android:name=".Tshrsit_1" />
+        <activity android:name=".selanjutnya_page8Activity" />
+        <activity android:name=".Login_page7Activity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".menaksir_page5Activity" />
+        <activity android:name=".promo_page4Activity" />
+        <activity android:name=".diskon_page3Activity" />
+        <activity android:name=".katagori_page2Activity" />
+        <activity android:name=".More" />
+        <activity android:name=".News" />
+        <activity android:name=".Shop" />
+        <activity android:name=".Home" />
+        <activity android:name=".Splash_Screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
